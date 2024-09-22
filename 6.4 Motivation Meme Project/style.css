@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    size: 200px 200px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+
+img{
+    width: 100%;
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+
+
+#img{
+    border: 5px solid white;
+    size: 200px 200px;
+    margin-top: 20px;
+
+}
+
+#Title{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    margin: 10px;
+     margin-bottom: 5px;
+     text-transform: uppercase;
+}
+
+#footer{
+
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Libre Barkerville', serif;
+    font-size: 20px;
+    font-weight:100;
+}
